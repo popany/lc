@@ -15,13 +15,7 @@ class Solution {
     }
 
     void setValue(char a, char value) {
-        if (a == value) {
-            return;
-        }
-
-        char v = m[a];
-        m[a] = value;
-        setValue(v, value);
+        m[m[a]] = value;
     }
 
 public:
@@ -39,11 +33,7 @@ public:
 
             char lhsValue = getValue(lhs);
             char rhsValue = getValue(rhs);
-            if (lhsValue > rhsValue) {
-                setValue(lhs, rhsValue);
-            } else {
-                setValue(rhs, lhsValue);
-            }
+            setValue(lhs, rhsValue);
         }
 
         for (auto it = equations.begin(); it != equations.end(); ++it) {

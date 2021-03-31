@@ -1,6 +1,14 @@
-# Build
+# Readme
 
-## windows
+- [Readme](#readme)
+  - [Build](#build)
+    - [windows](#windows)
+    - [Linux](#linux)
+  - [tags](#tags)
+    - [tree](#tree)
+## Build
+
+### windows
 
     md build-win32
     cd build-win32
@@ -10,9 +18,13 @@
     cmake -G "Visual Studio 14 2015 Win64" ..
     cmake --build . --config debug
 
-## Linux
+### Linux
 
     mkdir build
     cd build
     cmake ..
     make -j
+
+## tags
+
+### [tree](https://leetcode-cn.com/tag/tree/)

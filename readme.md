@@ -96,33 +96,61 @@
 
 6. [寻找最大值](https://www.lintcode.com/problem/297)
 
+   略.
+
 7. [链表节点计数](https://www.lintcode.com/problem/466)
+
+   略.
 
 8. [矩阵面积](https://www.lintcode.com/problem/454)
 
-9. [打印X](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/25)
+   略.
 
-10. [分数超过组长的组员](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/1919)
+9. [打印X](https://www.lintcode.com/problem/25/)
 
-11. [硬币翻面](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/1927)
+   略.
 
-12. [张三的故事](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/1934)
+10. [分数超过组长的组员](https://www.lintcode.com/problem/1919/)
 
-13. [寻找特定的患者](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/1931)
+    略.
 
-14. [挂科最多的同学](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/1932)
+11. [硬币翻面](https://www.lintcode.com/problem/1927/)
 
-15. [查询用户邮箱](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/1938)
+    略.
 
-16. [增长的疫情感染人数](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/1923)
+12. [张三的故事](https://www.lintcode.com/problem/1934/)
 
-17. [公租房信息查询](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/1930)
+    略.
 
-18. [查找重名的同学](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/1920)
+13. [寻找特定的患者](https://www.lintcode.com/problem/1931/)
 
-19. [超过3名球员所得到的分数](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/1925)
+    略.
 
-20. [推荐学理科的同学](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/1924)
+14. [挂科最多的同学](https://www.lintcode.com/problem/1932/)
+
+    略.
+
+15. [查询用户邮箱](https://www.lintcode.com/problem/1938/)
+
+    略.
+
+16. [增长的疫情感染人数](https://www.lintcode.com/problem/1923/)
+
+    略.
+
+17. [公租房信息查询](https://www.lintcode.com/problem/1930/)
+
+    略.
+
+18. [查找重名的同学](https://www.lintcode.com/problem/1920/)
+
+    略.
+
+19. [超过3名球员所得到的分数]https://www.lintcode.com/problem/1925/)
+
+    略.
+
+20. [推荐学理科的同学]https://www.lintcode.com/problem/1924/)
 
 ### 中期
 
@@ -172,7 +200,9 @@
 
 #### 广度优先
 
-1. [岛屿的个数](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/433)
+1. [岛屿的个数](https://www.lintcode.com/problem/433/)
+
+
 
 2. [序列重构](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/605)
 

@@ -76,15 +76,23 @@
 
 1. [整数排序](https://www.lintcode.com/problem/463/)
 
-       * cpp/src/lintcode/q463
+       cpp/src/lintcode/q463
 
 2. [反转一个3位整数](https://www.lintcode.com/problem/37/)
 
+       cpp/src/lintcode/q37
+
 3. [三数之中的最大值](https://www.lintcode.com/problem/283)
+
+   略.
 
 4. [从不充值的玩家](https://www.lintcode.com/problem/1921)
 
+   略.
+
 5. [寻找素数](https://www.lintcode.com/problem/298)
+
+       cpp/src/lintcode/q298
 
 6. [寻找最大值](https://www.lintcode.com/problem/297)
 

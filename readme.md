@@ -62,11 +62,11 @@
 
 - [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
 
-    cpp/src/leetcode/q110
+       cpp/src/leetcode/q110
 
 - [面试题 04.03. 特定深度节点链表](https://leetcode-cn.com/problems/list-of-depth-lcci/)
 
-    cpp/src/leetcode/m0403
+       cpp/src/leetcode/m0403
 
 ## LintCode
 
@@ -75,6 +75,8 @@
 ### 入门
 
 1. [整数排序](https://www.lintcode.com/problem/463/)
+
+       * cpp/src/lintcode/q463
 
 2. [反转一个3位整数](https://www.lintcode.com/problem/37/)
 

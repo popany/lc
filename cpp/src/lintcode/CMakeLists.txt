@@ -1,4 +1,6 @@
 add_subdirectory(q463)
+add_subdirectory(q77)
 add_subdirectory(q37)
 add_subdirectory(q298)
 add_subdirectory(q433)
+add_subdirectory(q605)

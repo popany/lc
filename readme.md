@@ -9,30 +9,33 @@
     - [tags](#tags)
       - [tree](#tree)
   - [LintCode](#lintcode)
-    - [入门](#入门)
-    - [中期](#中期)
-      - [动态规划](#动态规划)
-      - [双指针算法](#双指针算法)
-      - [广度优先](#广度优先)
-      - [深度优先](#深度优先)
-      - [分治算法](#分治算法)
-      - [哈希表](#哈希表)
-      - [堆](#堆)
-      - [贪心](#贪心)
-      - [链表](#链表)
-      - [线段树](#线段树)
-    - [按公司](#按公司)
-      - [阿里](#阿里)
-      - [字节](#字节)
-      - [腾讯](#腾讯)
-      - [百度](#百度)
-      - [美团](#美团)
-      - [Google](#google)
-      - [Facebook](#facebook)
-      - [Microsoft](#microsoft)
-      - [Amazon](#amazon)
-      - [领英](#领英)
-      - [Apple](#apple)
+    - [参考](#参考)
+      - [入门](#入门)
+      - [中期](#中期)
+        - [动态规划](#动态规划)
+        - [双指针算法](#双指针算法)
+        - [广度优先](#广度优先)
+        - [深度优先](#深度优先)
+        - [分治算法](#分治算法)
+        - [哈希表](#哈希表)
+        - [堆](#堆)
+        - [贪心](#贪心)
+        - [链表](#链表)
+        - [线段树](#线段树)
+      - [按公司](#按公司)
+        - [阿里](#阿里)
+        - [字节](#字节)
+        - [腾讯](#腾讯)
+        - [百度](#百度)
+        - [美团](#美团)
+        - [Google](#google)
+        - [Facebook](#facebook)
+        - [Microsoft](#microsoft)
+        - [Amazon](#amazon)
+        - [领英](#领英)
+        - [Apple](#apple)
+    - [自找](#自找)
+      - [序列](#序列)
 
 ## c++
 ### Build
@@ -70,9 +73,9 @@
 
 ## LintCode
 
-[来源](https://www.zhihu.com/question/302483921/answer/1770931984)
+### [参考](https://www.zhihu.com/question/302483921/answer/1770931984)
 
-### 入门
+#### 入门
 
 1. [整数排序](https://www.lintcode.com/problem/463/)
 
@@ -152,9 +155,11 @@
 
 20. [推荐学理科的同学]https://www.lintcode.com/problem/1924/)
 
-### 中期
+    略.
 
-#### 动态规划
+#### 中期
+
+##### 动态规划
 
 1. [栅栏染色](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/514)
 
@@ -176,7 +181,7 @@
 
 10. [骰子求和](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/20)
 
-#### 双指针算法
+##### 双指针算法
 
 1. [颜色分类](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/148)
 
@@ -198,13 +203,15 @@
 
 10. [接雨水](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/363)
 
-#### 广度优先
+##### 广度优先
 
 1. [岛屿的个数](https://www.lintcode.com/problem/433/)
 
+       cpp/src/lintcode/q433
 
+2. [序列重构](https://www.lintcode.com/problem/605/)
 
-2. [序列重构](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/605)
+*
 
 3. [拓扑排序](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/127)
 
@@ -216,7 +223,7 @@
 
 7. [最大子数组差](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/45)
 
-#### 深度优先
+##### 深度优先
 
 1. [子集](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/17)
 
@@ -230,7 +237,7 @@
 
 6. [因式分解](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/652)
 
-#### 分治算法
+##### 分治算法
 
 1. [子集](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/17)
 
@@ -246,7 +253,7 @@
 
 7. [子数组之和](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/138)
 
-#### 哈希表
+##### 哈希表
 
 1. [两数之和](https://www.lintcode.com/problem/two-sum/)
 
@@ -258,7 +265,7 @@
 
 5. [两数和 II-输入已排序的数组](https://www.lintcode.com/problem/two-sum-ii-input-array-is-sorted)
 
-#### 堆
+##### 堆
 
 1. [丑数](https://www.lintcode.com/problem/517/)
 
@@ -274,7 +281,7 @@
 
 7. [影际网络](https://www.lintcode.com/problem/808)
 
-#### 贪心
+##### 贪心
 
 1. [会议室](https://www.lintcode.com/problem/919)
 
@@ -286,7 +293,7 @@
 
 5. [最大子数组差](https://www.lintcode.com/problem/45)
 
-#### 链表
+##### 链表
 
 1. [合并k个排序链表](https://www.lintcode.com/problem/104)
 
@@ -300,7 +307,7 @@
 
 6. [K组翻转链表](https://www.lintcode.com/problem/450)
 
-#### 线段树
+##### 线段树
 
 1. [线段树的构造](https://www.lintcode.com/problem/201)
 
@@ -318,9 +325,9 @@
 
 8. [矩形面积](https://www.lintcode.com/problem/1450/)
 
-### 按公司
+#### 按公司
 
-#### 阿里
+##### 阿里
 
 - [牛牌](https://www.lintcode.com/problem/bull-cards)
 
@@ -334,7 +341,7 @@
 
 - [数组评分](https://www.lintcode.com/problem/array-score/)
 
-#### 字节
+##### 字节
 
 - [删除字符](https://www.lintcode.com/problem/delete-char)
 
@@ -348,7 +355,7 @@
 
 - [最大点的集合](https://www.lintcode.com/problem/maximum-points-set)
 
-#### 腾讯
+##### 腾讯
 
 - [最短休息日](https://www.lintcode.com/problem/minimum-rest-days)
 
@@ -362,7 +369,7 @@
 
 - [歌曲时间](https://www.lintcode.com/problem/song-time)
 
-#### 百度
+##### 百度
 
 - [等差切片](https://www.lintcode.com/problem/arithmetic-slices/)
 
@@ -376,7 +383,7 @@
 
 - [拆分子数组](https://www.lintcode.com/problem/split-array-largest-sum)
 
-#### 美团
+##### 美团
 
 - [考试策略](https://www.lintcode.com/problem/test-strategy)
 
@@ -390,7 +397,7 @@
 
 - [字符删除](https://www.lintcode.com/problem/character-deletion)
 
-#### Google
+##### Google
 
 - [第k大元素](https://www.lintcode.com/problem/kth-largest-element/)
 
@@ -404,7 +411,7 @@
 
 - [最多有k个不同字符的最长子字符串](https://www.lintcode.com/problem/longest-substring-with-at-most-k-distinct-characters)
 
-#### Facebook
+##### Facebook
 
 - [三数之和](https://www.lintcode.com/problem/3sum)
 
@@ -416,7 +423,7 @@
 
 - [搜索旋转排序数组](https://www.lintcode.com/problem/search-in-rotated-sorted-array)
 
-#### Microsoft
+##### Microsoft
 
 - [买卖股票的最佳时机](https://www.lintcode.com/problem/best-time-to-buy-and-sell-stock)
 
@@ -428,7 +435,7 @@
 
 - [复制带随机指针的链表](https://www.lintcode.com/problem/copy-list-with-random-pointer)
 
-#### Amazon
+##### Amazon
 
 - [最长回文串](https://www.lintcode.com/problem/627/)
 
@@ -442,7 +449,7 @@
 
 - [两个链表的交叉](https://www.lintcode.com/problem/380)
 
-#### 领英
+##### 领英
 
 - [打劫房屋](https://www.lintcode.com/problem/392)
 
@@ -454,7 +461,7 @@
 
 - [最大栈](https://www.lintcode.com/problem/859)
 
-#### Apple
+##### Apple
 
 - [接雨水](https://www.lintcode.com/problem/363)
 
@@ -467,3 +474,19 @@
 - [杨辉三角](https://www.lintcode.com/problem/1355)
 
 - [序列化和反序列N叉树](https://www.lintcode.com/problem/1532/)
+
+### 自找 
+
+#### 序列
+
+- [77 · 最长公共子序列](https://www.lintcode.com/problem/77/)
+
+*
+
+- [1702 · 不同的子序列 II](https://www.lintcode.com/problem/1702/)
+
+- [1874 · 特定序列的第K小的数](https://www.lintcode.com/problem/1874/)
+
+- [1880 · 序列中出现X次的最大数字X](https://www.lintcode.com/problem/1880/)
+
+

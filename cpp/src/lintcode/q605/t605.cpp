@@ -60,6 +60,22 @@ TEST_F(Test605, t5)
     ASSERT_FALSE(solution.sequenceReconstruction(org, seqs));
 }
 
+TEST_F(Test605, t6)
+{
+    Solution solution;
+    std::vector<int> org{ 1, 2, 3, 1 };
+    std::vector<std::vector<int>> seqs{ { 1, 2, 3 }, { 2, 3, 1 } };
+    ASSERT_TRUE(solution.sequenceReconstruction(org, seqs));
+}
+
+TEST_F(Test605, t7)
+{
+    Solution solution;
+    std::vector<int> org{ 2, 3, 1, 2, 3 };
+    std::vector<std::vector<int>> seqs{ { 1, 2, 3 }, { 2, 3, 1 } };
+    ASSERT_TRUE(solution.sequenceReconstruction(org, seqs));
+}
+
 int main(int argc, char **argv)
 {
     ::testing::InitGoogleTest(&argc, argv);

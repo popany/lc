@@ -211,9 +211,11 @@
 
 2. [序列重构](https://www.lintcode.com/problem/605/)
 
-*
+       cpp/src/lintcode/q463
 
-3. [拓扑排序](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/127)
+3. [拓扑排序](https://www.lintcode.com/problem/127/)
+
+xxxx
 
 4. [课程表](https://link.zhihu.com/?target=https%3A//www.lintcode.com/problem/615)
 

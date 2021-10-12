@@ -36,6 +36,7 @@
         - [Apple](#apple)
     - [自找](#自找)
       - [序列](#序列)
+      - [链表](#链表-1)
 
 ## c++
 ### Build
@@ -483,7 +484,7 @@ xxxx
 
 - [77 · 最长公共子序列](https://www.lintcode.com/problem/77/)
 
-*
+    cpp/src/lintcode/q77
 
 - [1702 · 不同的子序列 II](https://www.lintcode.com/problem/1702/)
 
@@ -491,4 +492,12 @@ xxxx
 
 - [1880 · 序列中出现X次的最大数字X](https://www.lintcode.com/problem/1880/)
 
+#### 链表
 
+- [173 · 链表插入排序](https://www.lintcode.com/problem/173/leaderboard)
+
+    cpp/src/lintcode/q173
+
+- [98 · 链表排序](https://www.lintcode.com/problem/98)
+
+- [599 · 向循环有序链表插入节点](https://www.lintcode.com/problem/599)

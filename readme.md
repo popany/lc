@@ -37,6 +37,8 @@
     - [自找](#自找)
       - [序列](#序列)
       - [链表](#链表-1)
+      - [算法](#算法)
+      - [树](#树)
 
 ## c++
 ### Build
@@ -500,4 +502,45 @@ xxxx
 
 - [98 · 链表排序](https://www.lintcode.com/problem/98)
 
+    cpp/src/lintcode/q98
+
 - [599 · 向循环有序链表插入节点](https://www.lintcode.com/problem/599)
+
+    cpp/src/lintcode/q599
+
+- [102 · 带环链表](https://www.lintcode.com/problem/102/)
+
+- [103 · 带环链表 II](https://www.lintcode.com/problem/103)
+
+- [380 · 两个链表的交叉](https://www.lintcode.com/problem/380)
+
+- [1229 · 循环数组中的环](https://www.lintcode.com/problem/1229)
+
+- [1609 · 链表的中间结点](https://www.lintcode.com/problem/1609/)
+
+#### 算法
+
+- [24 · LFU缓存](https://www.lintcode.com/problem/24)
+
+- [134 · LRU缓存策略](https://www.lintcode.com/problem/134/)
+
+- [538 · 内存缓存](https://www.lintcode.com/problem/538)
+
+- [64 · 合并排序数组（简单版）](https://www.lintcode.com/problem/64/)
+
+- [839 · 合并两个排序的间隔列表](https://www.lintcode.com/problem/839)
+
+- [577 · 合并K个排序间隔列表](https://www.lintcode.com/problem/577)
+
+- [486 · 合并k个排序数组](https://www.lintcode.com/problem/486)
+
+- [165 · 合并两个排序链表](https://www.lintcode.com/problem/165)
+
+- [104 · 合并k个排序链表](https://www.lintcode.com/problem/104)
+
+- [212 · 空格替换](https://www.lintcode.com/problem/212)
+
+- [6 · 合并排序数组](https://www.lintcode.com/problem/6)
+
+#### 树
+

@@ -544,3 +544,54 @@ xxxx
 
 #### 树
 
+- [1746 · 二叉搜索树结点最小距离](https://www.lintcode.com/problem/1746/)
+
+- [1744 · 递增顺序查找树](https://www.lintcode.com/problem/1744/)
+
+- [1534 · 将二叉搜索树转换为已排序的双向链接列表](https://www.lintcode.com/problem/1534/)
+
+- [1524 · 在二叉搜索树中查找](https://www.lintcode.com/problem/1524/)
+
+- [1359 · 有序数组转换为二叉搜索树](https://www.lintcode.com/problem/1359/)
+
+- [1311 · 二叉搜索树的最近公共祖先](https://www.lintcode.com/problem/1311/)
+
+- [1307 · 验证二叉搜索树中的前序序列](https://www.lintcode.com/problem/1307/)
+
+- [1188 · BST的最小绝对差](https://www.lintcode.com/problem/1188/)
+
+- [1033 · BST中的最小差值](https://www.lintcode.com/problem/1033/)
+
+- [915 · BST的中序前驱节点](https://www.lintcode.com/problem/915/)
+
+- [902 · BST中第K小的元素](https://www.lintcode.com/problem/902/)
+
+- [901 · 二叉搜索树中最接近的值 II](https://www.lintcode.com/problem/901/)
+
+- [900 · 二叉搜索树中最接近的值](https://www.lintcode.com/problem/900/)
+
+- [701 · 修剪二叉搜索树](https://www.lintcode.com/problem/701/)
+
+- [691 · 恢复二叉搜索树](https://www.lintcode.com/problem/691/)
+
+- [689 · 两数之和 - BST版本](https://www.lintcode.com/problem/689/)
+
+- [661 · 把二叉搜索树转化成更大的树](https://www.lintcode.com/problem/661/)
+
+- [448 · 二叉查找树的中序后继](https://www.lintcode.com/problem/448/)
+
+- [177 · 把排序数组转换为高度最小的二叉搜索树](https://www.lintcode.com/problem/177/)
+
+- [164 · 不同的二叉查找树 II](https://www.lintcode.com/problem/164/)
+
+- [106 · 有序链表转换为二叉搜索树](https://www.lintcode.com/problem/106/)
+
+- [95 · 验证二叉查找树](https://www.lintcode.com/problem/95/)
+
+- [87 · 删除二叉查找树的节点](https://www.lintcode.com/problem/87/)
+
+- [86 · 二叉查找树迭代器](https://www.lintcode.com/problem/86/)
+
+- [85 · 在二叉查找树中插入节点](https://www.lintcode.com/problem/85/)
+
+- [11 · 二叉查找树中搜索区间](https://www.lintcode.com/problem/11/)

@@ -518,6 +518,8 @@ xxxx
 
 - [380 · 两个链表的交叉](https://www.lintcode.com/problem/380)
 
+    cpp/src/lintcode/q380
+
 - [1229 · 循环数组中的环](https://www.lintcode.com/problem/1229)
 
 - [1609 · 链表的中间结点](https://www.lintcode.com/problem/1609/)

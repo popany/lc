@@ -522,6 +522,8 @@ xxxx
 
 - [1229 · 循环数组中的环](https://www.lintcode.com/problem/1229)
 
+    cpp/src/lintcode/q1229
+
 - [1609 · 链表的中间结点](https://www.lintcode.com/problem/1609/)
 
 #### 算法

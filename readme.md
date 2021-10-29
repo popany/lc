@@ -550,6 +550,14 @@ xxxx
 
 - [6 · 合并排序数组](https://www.lintcode.com/problem/6)
 
+- [464 · 整数排序 II](https://www.lintcode.com/problem/464)
+
+- [428 · x的n次幂](https://www.lintcode.com/problem/428/)
+
+- [669 · 换硬币](https://www.lintcode.com/problem/669/leaderboard)
+
+    cpp/src/lintcode/q669
+
 #### 树
 
 - [1746 · 二叉搜索树结点最小距离](https://www.lintcode.com/problem/1746/)

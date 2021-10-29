@@ -35,7 +35,6 @@
         - [领英](#领英)
         - [Apple](#apple)
     - [自找](#自找)
-      - [序列](#序列)
       - [链表](#链表-1)
       - [算法](#算法)
       - [树](#树)
@@ -482,18 +481,6 @@ xxxx
 
 ### 自找 
 
-#### 序列
-
-- [77 · 最长公共子序列](https://www.lintcode.com/problem/77/)
-
-    cpp/src/lintcode/q77
-
-- [1702 · 不同的子序列 II](https://www.lintcode.com/problem/1702/)
-
-- [1874 · 特定序列的第K小的数](https://www.lintcode.com/problem/1874/)
-
-- [1880 · 序列中出现X次的最大数字X](https://www.lintcode.com/problem/1880/)
-
 #### 链表
 
 - [173 · 链表插入排序](https://www.lintcode.com/problem/173/leaderboard)
@@ -557,6 +544,42 @@ xxxx
 - [669 · 换硬币](https://www.lintcode.com/problem/669/leaderboard)
 
     cpp/src/lintcode/q669
+
+- [749 · 约翰的后花园](https://www.lintcode.com/problem/749)
+
+- [564 · 组合总和 IV](https://www.lintcode.com/problem/564)
+
+- [563 · 背包问题 V](https://www.lintcode.com/problem/563)
+
+- [562 · 背包问题 IV](https://www.lintcode.com/problem/562)
+
+- [440 · 背包问题 III](https://www.lintcode.com/problem/440)
+
+- [125 · 背包问题（二）](https://www.lintcode.com/problem/125)
+
+- [92 · 背包问题](https://www.lintcode.com/problem/92)
+
+- [1192 · 最长非公共子序列之1](https://www.lintcode.com/problem/1192/)
+
+- [762 · 最长公共子序列 II](https://www.lintcode.com/problem/762/discuss)
+
+- [77 · 最长公共子序列](https://www.lintcode.com/problem/77/)
+
+    cpp/src/lintcode/q77
+
+- [1702 · 不同的子序列 II](https://www.lintcode.com/problem/1702/)
+
+- [1874 · 特定序列的第K小的数](https://www.lintcode.com/problem/1874/)
+
+- [1880 · 序列中出现X次的最大数字X](https://www.lintcode.com/problem/1880/)
+
+- [79 · 最长公共子串](https://www.lintcode.com/problem/79)
+
+- [119 · 编辑距离](https://www.lintcode.com/problem/119)
+
+- [623 · K步编辑](https://www.lintcode.com/problem/623)
+
+- [640 · 一次编辑距离](https://www.lintcode.com/problem/640)
 
 #### 树
 

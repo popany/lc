@@ -541,6 +541,8 @@ xxxx
 
 - [428 · x的n次幂](https://www.lintcode.com/problem/428/)
 
+    cpp/src/lintcode/q428
+
 - [669 · 换硬币](https://www.lintcode.com/problem/669/leaderboard)
 
     cpp/src/lintcode/q669

@@ -123,6 +123,58 @@
         }
     };
 
+### merge sort top down
 
+    class Solution {
+        void merge(int* b, int* e, int* buf) {
+            if (b + 1 >= e) {
+                return;
+            }
+    
+            int* m = b + ((e - b) >> 1);
+            merge(b, m, buf);
+            merge(m, e, buf);
+            
+            for (int i = 0; i < e - m; i++) {
+                buf[i] = m[i];
+            }
+            
+            int* b2 = buf;
+            int* e2 = buf + (e - m);
+            while (b < m && b2 < e2) {
+                --e;
+                if (m[-1] < e2[-1]) {
+                    --e2;
+                    *e = *e2;
+                }
+                else {
+                    --m;
+                    *e = *m;
+                }
+            }
+            while (b < m) {
+                --e;
+                --m;
+                *e = *m;
+            }
+            while (b2 < e2) {
+                --e;
+                --e2;
+                *e = *e2;
+            }
+        }
+    
+    public:
+        /**
+         * @param A: an integer array
+         * @return: nothing
+         */
+        void sortIntegers2(vector<int> &A) {
+            std::vector<int> buf((A.size() >> 1) + 1);
+            merge(&A[0], &A[0] + A.size(), &buf[0]);
+        }
+    };
+
+### merge sort bottom up
 
 

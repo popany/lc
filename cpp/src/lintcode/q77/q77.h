@@ -126,3 +126,49 @@ public:
 };
 
 #endif
+
+#if 0
+
+// 20211030
+// 41 ms 时间消耗 5.44 MB 空间消耗 您的提交打败了 88.80 % 的提交
+
+class Solution {
+public:
+    /**
+     * @param A: A string
+     * @param B: A string
+     * @return: The length of longest common subsequence of A and B
+     */
+    int longestCommonSubsequence(string &A, string &B) {
+        std::map<char, std::vector<int>> m;
+        for (int i = 0; i < A.size(); i++) {
+            m[A[i]].push_back(i);
+        }
+
+        int rtn = 0;
+        std::vector<int> v(A.size(), 0);
+        for (auto c : B) {
+            auto kv = m.find(c);
+            if (kv == m.end()) {
+                continue;
+            }
+            const auto& p = kv->second;
+            int t = 0;
+            int i = 0;
+            for (auto n : p) {
+                while (i < n) {
+                    t = v[i] > t ? v[i] : t;
+                    i++;
+                }
+                int vn = t + 1;
+                t = v[n] > t ? v[n] : t;
+                v[n] = vn;
+                rtn = vn > rtn ? vn : rtn;
+                i++;
+            }
+        }
+        return rtn;
+    }
+};
+
+#endif

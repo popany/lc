@@ -539,6 +539,8 @@ xxxx
 
 - [464 · 整数排序 II](https://www.lintcode.com/problem/464)
 
+    cpp/src/lintcode/q464
+
 - [428 · x的n次幂](https://www.lintcode.com/problem/428/)
 
     cpp/src/lintcode/q428
@@ -582,6 +584,16 @@ xxxx
 - [623 · K步编辑](https://www.lintcode.com/problem/623)
 
 - [640 · 一次编辑距离](https://www.lintcode.com/problem/640)
+
+- [149 · 买卖股票的最佳时机](https://www.lintcode.com/problem/149)
+
+- [150 · 买卖股票的最佳时机 II](https://www.lintcode.com/problem/150)
+
+- [151 · 买卖股票的最佳时机 III](https://www.lintcode.com/problem/151)
+
+- [393 · 买卖股票的最佳时机 IV](https://www.lintcode.com/problem/393)
+
+- [1691 · 买卖股票的最佳时机 V](https://www.lintcode.com/problem/1691/)
 
 #### 树
 

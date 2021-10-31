@@ -35,7 +35,6 @@
         - [领英](#领英)
         - [Apple](#apple)
     - [自找](#自找)
-      - [链表](#链表-1)
       - [算法](#算法)
       - [树](#树)
 
@@ -481,7 +480,7 @@ xxxx
 
 ### 自找 
 
-#### 链表
+#### 算法
 
 - [173 · 链表插入排序](https://www.lintcode.com/problem/173/leaderboard)
 
@@ -512,8 +511,6 @@ xxxx
     cpp/src/lintcode/q1229
 
 - [1609 · 链表的中间结点](https://www.lintcode.com/problem/1609/)
-
-#### 算法
 
 - [24 · LFU缓存](https://www.lintcode.com/problem/24)
 

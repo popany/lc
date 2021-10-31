@@ -177,4 +177,64 @@
 
 ### merge sort bottom up
 
-
+    class Solution {
+    
+        void merge(int* b, int* m, int* e, int* buf) {
+            for (int i = 0; i < m - b; i++) {
+                buf[i] = b[i];
+            }
+            
+            int* b1 = m;
+            int* e1 = e;
+            int* b2 = buf;
+            int* e2 = buf + (m - b);
+            while (b1 < e1 && b2 < e2) {
+                if (*b1 < *b2) {
+                    *b = *b1;
+                    ++b1;
+                }
+                else {
+                    *b = *b2;
+                    ++b2;
+                }
+                ++b;
+            }
+            while (b1 < e1) {
+                *b = *b1;
+                ++b;
+                ++b1;
+            }
+            while (b2 < e2) {
+                *b = *b2;
+                ++b;
+                ++b2;
+            }
+        }
+    
+    public:
+        /**
+         * @param A: an integer array
+         * @return: nothing
+         */
+        void sortIntegers2(vector<int> &A) {
+            std::vector<int> buf((A.size() >> 1) + 1);
+            int n = A.size();
+            int* b = &A[0];
+            int x = 1;
+            while (x < n) {
+                x <<= 1;
+                if (!(x & n)) {
+                    continue;
+                }
+                int s = 1;
+                int* p = b + (n & (x - 1));
+                while (s < x) {
+                    s <<= 1;
+                    for (int i = 0; i < x; i += s) {
+                        merge(p + i, p + i + (s >> 1), p + i + s, &buf[0]);
+                    }
+                }
+                merge(b, p, p + x, &buf[0]);
+            }
+        }
+    };

@@ -653,3 +653,15 @@ xxxx
 - [201 · 线段树的构造](https://www.lintcode.com/problem/201/description)
 
     cpp/src/lintcode/q201
+
+- [202 · 线段树的查询](https://www.lintcode.com/problem/202)
+
+    cpp/src/lintcode/q202
+
+- [247 · 线段树查询 II](https://www.lintcode.com/problem/247)
+
+    cpp/src/lintcode/q247
+
+- [203 · 线段树的修改](https://www.lintcode.com/problem/203)
+
+- [751 · 约翰的生意](https://www.lintcode.com/problem/751)

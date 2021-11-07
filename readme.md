@@ -645,3 +645,7 @@ xxxx
 - [85 · 在二叉查找树中插入节点](https://www.lintcode.com/problem/85/)
 
 - [11 · 二叉查找树中搜索区间](https://www.lintcode.com/problem/11/)
+
+- [439 · 线段树的构造 II](https://www.lintcode.com/problem/439/)
+
+    cpp/src/lintcode/q439

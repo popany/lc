@@ -669,3 +669,6 @@ xxxx
 - [751 · 约翰的生意](https://www.lintcode.com/problem/751)
 
     cpp/src/lintcode/q751
+
+- [205 · 区间最小数](https://www.lintcode.com/problem/205)
+

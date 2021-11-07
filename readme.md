@@ -649,3 +649,7 @@ xxxx
 - [439 · 线段树的构造 II](https://www.lintcode.com/problem/439/)
 
     cpp/src/lintcode/q439
+
+- [201 · 线段树的构造](https://www.lintcode.com/problem/201/description)
+
+    cpp/src/lintcode/q201

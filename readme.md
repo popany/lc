@@ -667,3 +667,5 @@ xxxx
     cpp/src/lintcode/q203
 
 - [751 · 约翰的生意](https://www.lintcode.com/problem/751)
+
+    cpp/src/lintcode/q751

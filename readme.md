@@ -664,4 +664,6 @@ xxxx
 
 - [203 · 线段树的修改](https://www.lintcode.com/problem/203)
 
+    cpp/src/lintcode/q203
+
 - [751 · 约翰的生意](https://www.lintcode.com/problem/751)
